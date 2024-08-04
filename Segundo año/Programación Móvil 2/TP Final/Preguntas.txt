@@ -1,0 +1,15 @@
+En que año fue lanzado $title?
+Respuesta: $release_date
+
+En qué plataforma se puede jugar $title?
+Respuesta: $platform
+
+Cual es el género de $title?
+Respuesta: $genre
+
+Que
+Respuesta $developer
+
+
+
+
