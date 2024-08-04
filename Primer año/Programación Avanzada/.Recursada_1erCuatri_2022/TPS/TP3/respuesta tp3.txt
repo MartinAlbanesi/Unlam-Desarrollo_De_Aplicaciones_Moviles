@@ -1,0 +1,4 @@
+TP3:
+
+1. El concepto de composición se aplicó en el proyecto Buscaminas, donde las casillas son creadas e inicializadas dentro del constructor de Tablero.
+El concepto de agregación se utilizó en el proyecto Banco, dentro de la clase Cuenta se utilizó un atributo de tipo Cliente para representar la relación de un cliente por cuenta.
