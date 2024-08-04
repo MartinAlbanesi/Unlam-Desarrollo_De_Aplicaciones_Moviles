@@ -1,0 +1,124 @@
+<mxfile host="app.diagrams.net" modified="2023-05-12T19:12:54.253Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0" etag="xeGxIlbfnHdjyBnt1D0a" version="21.2.9" type="device">
+  <diagram name="Página-1" id="uxIz0Pu7VeDlx5f7tDSs">
+    <mxGraphModel dx="1438" dy="1981" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="o7oir17lDUdSbGpSX4V4-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="o7oir17lDUdSbGpSX4V4-5" target="o7oir17lDUdSbGpSX4V4-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o7oir17lDUdSbGpSX4V4-5" value="Contenidista" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="345" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="o7oir17lDUdSbGpSX4V4-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="o7oir17lDUdSbGpSX4V4-7" target="o7oir17lDUdSbGpSX4V4-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o7oir17lDUdSbGpSX4V4-7" value="Registrar noticia" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="340" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="o7oir17lDUdSbGpSX4V4-8" value="Visualizar el resumen&lt;br&gt;de la noticia" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="340" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="o7oir17lDUdSbGpSX4V4-9" value="Buscar noticia por título" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="169" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="o7oir17lDUdSbGpSX4V4-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="o7oir17lDUdSbGpSX4V4-10" target="o7oir17lDUdSbGpSX4V4-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o7oir17lDUdSbGpSX4V4-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="o7oir17lDUdSbGpSX4V4-10" target="o7oir17lDUdSbGpSX4V4-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o7oir17lDUdSbGpSX4V4-10" value="Modificar noticia" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="89" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="o7oir17lDUdSbGpSX4V4-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="o7oir17lDUdSbGpSX4V4-11" target="o7oir17lDUdSbGpSX4V4-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o7oir17lDUdSbGpSX4V4-11" value="Publicar noticia" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="169" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="o7oir17lDUdSbGpSX4V4-21" value="Enviar correo electronico" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="89" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="o7oir17lDUdSbGpSX4V4-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="o7oir17lDUdSbGpSX4V4-30" target="o7oir17lDUdSbGpSX4V4-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o7oir17lDUdSbGpSX4V4-30" value="Agregar comentarios" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="7" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="o7oir17lDUdSbGpSX4V4-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="o7oir17lDUdSbGpSX4V4-34" target="o7oir17lDUdSbGpSX4V4-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o7oir17lDUdSbGpSX4V4-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="o7oir17lDUdSbGpSX4V4-34" target="o7oir17lDUdSbGpSX4V4-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o7oir17lDUdSbGpSX4V4-34" value="Despublicar noticia" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="254" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="o7oir17lDUdSbGpSX4V4-36" value="Registrar motivo" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="254" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="o7oir17lDUdSbGpSX4V4-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="o7oir17lDUdSbGpSX4V4-38" target="o7oir17lDUdSbGpSX4V4-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o7oir17lDUdSbGpSX4V4-38" value="Descargar contenido" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="169" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="o7oir17lDUdSbGpSX4V4-40" value="Listar noticias pendientes&lt;br&gt;de publicacion" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="430" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="o7oir17lDUdSbGpSX4V4-41" value="Listar noticias publicadas" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="515" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="o7oir17lDUdSbGpSX4V4-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="o7oir17lDUdSbGpSX4V4-44" target="o7oir17lDUdSbGpSX4V4-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o7oir17lDUdSbGpSX4V4-44" value="Visualizar contenido" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="515" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="o7oir17lDUdSbGpSX4V4-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="o7oir17lDUdSbGpSX4V4-47" target="o7oir17lDUdSbGpSX4V4-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o7oir17lDUdSbGpSX4V4-47" value="Publicar noticia" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="430" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="o7oir17lDUdSbGpSX4V4-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="o7oir17lDUdSbGpSX4V4-50" target="o7oir17lDUdSbGpSX4V4-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o7oir17lDUdSbGpSX4V4-50" value="Corroborar existencia &lt;br&gt;del tipo&lt;br&gt;de noticia" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="340" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="o7oir17lDUdSbGpSX4V4-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="o7oir17lDUdSbGpSX4V4-52" target="o7oir17lDUdSbGpSX4V4-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o7oir17lDUdSbGpSX4V4-52" value="Registrar tipo de noticia" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="340" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="o7oir17lDUdSbGpSX4V4-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="o7oir17lDUdSbGpSX4V4-54" target="o7oir17lDUdSbGpSX4V4-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o7oir17lDUdSbGpSX4V4-54" value="Validar campos" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="890" y="340" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="o7oir17lDUdSbGpSX4V4-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="o7oir17lDUdSbGpSX4V4-64" target="o7oir17lDUdSbGpSX4V4-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o7oir17lDUdSbGpSX4V4-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="o7oir17lDUdSbGpSX4V4-64" target="o7oir17lDUdSbGpSX4V4-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o7oir17lDUdSbGpSX4V4-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="o7oir17lDUdSbGpSX4V4-64" target="o7oir17lDUdSbGpSX4V4-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o7oir17lDUdSbGpSX4V4-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="o7oir17lDUdSbGpSX4V4-64" target="o7oir17lDUdSbGpSX4V4-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o7oir17lDUdSbGpSX4V4-64" value="Iniciar sesión" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="340" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="o7oir17lDUdSbGpSX4V4-75" value="Sistema de Portal de Noticias" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=180;height=31;" vertex="1" parent="1">
+          <mxGeometry x="100" y="-21" width="1120" height="631" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

@@ -1,0 +1,13 @@
+Actores:
+1. Dueño
+2. Administrador
+3. Cliente
+4. Recepcionista
+5. Coordinador de Eventos
+
+Administrar reserva
+Check-in de Cliente
+Check-out de Cliente
+Crear promociones
+Administrar eventos
+Enviar encuestas

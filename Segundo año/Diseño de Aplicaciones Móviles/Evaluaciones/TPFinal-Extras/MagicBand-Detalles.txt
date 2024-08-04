@@ -1,0 +1,6 @@
+MagicBand:
+
+Se asocia a la cuenta del usuario registrado luego de realizar la compra desde la app (identifica el cliente según los datos cargados).
+La MagicBand asocia automáticamente las compras y reservas de tickets y actividades en el parque.
+Se pueden realizar compras en el parque a través de la MagicBand en caso de no poseer un paquete o compra de un producto.
+
