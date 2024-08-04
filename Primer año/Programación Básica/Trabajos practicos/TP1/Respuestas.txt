@@ -1,0 +1,6 @@
+1.e) 
+En el directorio del archivo guardado se creó un nuevo archivo compilado llamado "MiPrimeraClase.class". Este archivo es la compilación del programa.
+
+
+2.e)
+al sumarle 1 al máximo que soporta enteros se desborda y toma el valor más bajo posible, agregandole un - a la suma (-2147483648)
