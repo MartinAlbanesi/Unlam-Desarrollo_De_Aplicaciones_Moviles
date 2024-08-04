@@ -1,0 +1,32 @@
+1. Cadena léxica
+CSS - acronym - style language - defines - layout of HTML documents - offers - accurate - sophisticated - supported by - all browsers - style sheets - used for - structure content - formatting - prividing - web designers - separation of - presentation style documents - site maintenance - easier - revolution - web design
+
+2. Términos transparentes
+Images (imágenes)
+Margins (márgenes)
+Options (opciones)
+Demand (demanda)
+Opportunity (oportunidad)
+
+3. Sinónimos
+Precise - Accurate
+Complex - Sophisticated
+Fame - Popularity
+Aspect - Look
+
+4. Antónimos
+Iguales (Equal) - Diferentes (Different)
+Más difícil (More difficult) - Más fácil (Easier)
+
+5. False friend
+Just: palabra similar a "Justo" pero su significado es "Solo" 
+
+6. Repetición léxica
+CSS - HTML - Tags - Layout - Documents - Browser
+
+7. Responder
+a. CSS es un lenguaje de estilo que define el diseño de documentos HTML.
+b. CSS es compatible con todos los navegadores en la actualidad.
+c. Los diseñadores comenzaron a buscar posibilidades para agregar diseño a documentos en línea. 
+d. CSS se inventó para proporcional oportunidades de diseño sofisticadas compatibles con todos los navegadores para diseñadores web.
+e. Los beneficios de CSS son: controlar el diseño de muchos documentos desde una sola hoja de estilo, control más preciso del diseño, aplicar diferentes diseños a diferentes tipos de medios (pantalla, impresión, etc), numerosas técnicas avanzadas y sofisticadas.

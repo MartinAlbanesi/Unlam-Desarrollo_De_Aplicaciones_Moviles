@@ -1,0 +1,9 @@
+Las páginas web estáticas son las que no cambian el contenido o el diseño con cada solicitud a la web del servidor.
+Ellas cambian solo cuando un autor web las actualiza manualmente con un editor de texto o una herramienta de edición web.
+La gran mayoría de los sitios web usan páginas estáticas, y la técnica es muy rentable para publicar información web que no cambia sustancialmente durante meses o incluso años.
+Muchos sistemas de gestión de contenido web también usan publicación estática para ofrecer contenido web.
+En CMS las páginas son creadas, recreadas y modificadas en una interface de edición web dinámica basada en bases de datos pero luego se escriben en el servidor web ("publicadas") como páginas estáticas ordinarias.
+Las páginas estáticas son simples, seguras, menos propensas a fallas y errores tecnológicos, y fácilmente visibles por motores de búsqueda.
+
+Estructuradas: They - The - Or - To - As - 
+Conceptuales: Change - Static - Updates - Management - Substantially - Visible
