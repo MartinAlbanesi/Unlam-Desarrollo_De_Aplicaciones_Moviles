@@ -1,0 +1,31 @@
+Entrega en tiempo y forma (Proceso): 6
+
+Desarrollo de brief, flujo de usuario y wireframes: 10
+
+Diseño de interfaz: 9
+
+Usabilidad de la app: 8
+
+Consideración de las temáticas aprendidas: 9
+
+Originalidad/Pertinencia de la propuesta: 9
+
+Defensa oral: 7
+
+ 
+
+Promedio 8.28: 8
+
+ 
+
+Observaciones: Como se ve en las notas valoramos el desarrollo de los wireframes, flujo de usuario e intencionalidad estética y funcional 
+de la app. Nos parece que el proyecto es muy atractivo y que tiene potencial, sin embargo faltaría pulir aspectos de usabilidad para 
+mejorar la respuesta eficiente de la app en la herramienta de búsqueda y carga de Ingredientes. Además, sugerimos mejorar las funciones de
+ la red social manteniendo una armonía de uso con las herramientas de armado de platos, jerarquizar una de las dos de manera intencional 
+o poner las dos funciones al mismo nivel. Nos parece muy interesante el aspecto de comunidad o red social logrado en la app, aunque no fue
+ la intención inicial de la propuesta planteada en el Brief. Para que queden más claras las dos grandes funciones, nos pareció que se podía
+ diferenciar dos tipos de perfil de usuario: uno inexperto que busca recetas y uno especializado que comparte. En este caso, sumaría 
+implementar herramientas que aporten beneficios al usuario especializado como premio por compartir su contenido y nutrir la app. El uso de
+ imágenes de perfil como de comidas y de las funciones estándares de redes sociales acercan la app al usuarix. Valoramos las elecciones 
+estéticas en tipografía, color, iconografía de la interfaz. Buen uso de las jerarquías y los espacios. La app tiene alto impacto. También
+ valoramos la incorporación del gráfico a la pantalla “Mis ingredientes” luego de las sugerencias hechas en clase. 
