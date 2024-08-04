@@ -1,0 +1,124 @@
+Ejercicios parte 1:
+
+
+Ejercicio 1:
+
+Curso: codigo, nombre, valor de cuota, duración(1-4 días)
+
+Instructor: nombre, email.
+Cada curso es dictado por un único instructor. Los instructores pueden dictar diferentes cursos. 
+Un instructor puede dictar varios cursos.
+
+Alumno: nombre, telefono(pueden ser varios).
+Los alumnos pueden tomar varios cursos al mismo tiempo
+
+
+Ejercicio 2:
+
+Habitante: tipo y nro de documento, nombre, apellido, fecha de nacimiento, edad.
+cada persona debe vivir en una única vivienda, lo cual no necesariamente es de su propiedad.
+una persona puede ser propietaria de varias viviendas.
+
+Vivienda: dirección (calle, número, localidad y código postal), cantidad de metros cuadrados de terreno, cantidad de metros cuadrados que se encuentran edificados, municipio al que pertenece.
+
+Municipio: nombre, intendente actual.
+
+
+Ejercicio 3:
+
+	Empleado: nro de legajo, nombre, apellido, depto en el que trabaja(codigo y descripción).
+	
+Contratado: precio que cobra por hora comun y hora extra, consultora a la que pertenecen(nro de CUIT, Razón Social y teléfono.
+	
+Efectivo: salario
+
+
+
+Ejercicio 4:
+relaciones binarias
+
+Pasajero: pasaporte, vuelos comprados
+
+Vuelo: nro de vuelo, fecha, hora, ciudad, personal asignado, avión
+
+Avion: modelo, fabricante, capacidad, hangar, tipo de avión.
+
+personal: nombre, apellido, área asignada, piloto(cant hs de vuelo, tipo de avión)
+
+
+PARTE 2 
+
+Ejercicio 5:
+
+Cliente: DNI, nombre, dirección, teléfono.
+
+Reserva: fecha de inicio y final de la reserva, precio de alquiler, litros de nafta que posee al momento de la reserva.
+
+Agencia: razón social, CUIT
+
+Vehículo: número de patente, marca, modelo, color
+
+Garage: código, dirección
+
+
+Ejercicio 6:
+
+Videoclub
+
+Copia: nro compuesto por Cod_pelicula + Cod_copia, pueden ser formato DVD, Blu-Ray o VHS. 
+
+Película: cod_pelicula, título, categoría. 
+
+Actores: nombre, apellido, fecha nac.
+
+Socio: nombre, apellido, telefono, direccion, nro_socio.
+
+
+Ejercicio 8:
+
+Sistema: 
+Programa: 
+Archivo: 
+
+relación ACCEDE.
+
+sistema y programa: ejecuta (atributo frecuencia) N-N
+
+N-N-N
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

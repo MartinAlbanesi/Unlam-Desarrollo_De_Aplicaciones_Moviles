@@ -1,0 +1,16 @@
+Enunciado: Instituto de Música
+Detalle de corrección:
+DER:
+• La Entidad Clase podría darse como el resultado de una relación ternaria entre docente, alumno y especialidad
+• El atributo valor_clase pertenece a la especialidad
+• Entre Alumno e Instrumento, existe la relación Alquila, por lo que préstamo no sería una Entidad en el DER.
+• Suponiendo que la Entidad préstamo estuviera Ok, la cardinalidad de la relación entre instrumento y préstamo no está correcta ya que un instrumento podría ser prestado en muchos préstamos.
+• Entidad Instrumento: Falta el atributo número de ejemplar
+• La Entidad tipo_instrumento no es entidad Débil, en todo caso si quisieran determinar una entidad débil podría ser ejemplares, que se relaciona con instrumento.
+• La entidad Especialidad_inst, no debería existir ya que existe la Entidad Especialidad que tendría los mismos datos.
+• La cardinalidad de la relación tiene entre tipo_instrumento y especialidad sería N:1 ya que un tipo de instrumento pertenece a una especialidad, y una especialidad puede tener varios instrumentos.
+MR (considerando el DER entregado)
+• Considerando el DER presentado, el MR estaría acorde.
+Normalización:
+• No se detalla información específica para normalización.
+Nota: 5 (cinco)

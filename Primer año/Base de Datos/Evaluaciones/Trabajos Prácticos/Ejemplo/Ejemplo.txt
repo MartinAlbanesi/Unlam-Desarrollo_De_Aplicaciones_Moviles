@@ -1,0 +1,21 @@
+Enunciado: --20. Listar la descripción de artículos compuestos por todos los materiales.
+
+Opción: utilizando la cantidad y >= ALL
+
+SELECT DESCRIPCION
+FROM ARTICULO
+WHERE cod_Art IN (SELECT cod_art
+                                  FROM COMPUESTO_POR
+                                  GROUP BY cod_Art
+                                  HAVING COUNT (*) >= ALL (SELECT COUNT (*) FROM MATERIAL))
+
+Opción: utilizando únicamente NOT EXISTS
+
+
+SELECT DESCRIPCION
+FROM ARTICULO A
+WHERE NOT EXISTS (SELECT 1
+                                     FROM MATERIAL M
+                                   WHERE NOT EXISTS (SELECT 1
+                                                                         FROM COMPUESTO_POR CP
+                                                                         WHERE A.cod_art = CP.Cod_Art AND CP.cod_mat = M.cod_mat))

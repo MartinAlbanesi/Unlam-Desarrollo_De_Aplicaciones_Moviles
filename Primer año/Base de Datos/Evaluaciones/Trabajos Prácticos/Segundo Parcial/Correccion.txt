@@ -1,0 +1,11 @@
+Punto 1: Ok
+Punto 2: Falta el Join con Especialidad
+Punto 3: Falta la especialidad en el SELECT. No se requiere la subconsulta
+Punto 4: Ok, error en el campo Fecha alta, y en el cálculo del 20%
+Punto 5: Ok
+Punto 6: Ok
+Punto 7: Ok
+Punto 8: no es posible aplicar la clausula WHERE MAX(Valor_Consulta)
+Punto 9: Errores en el planteo
+Punto 10: Está mal planteado el último WHERE
+Punto 11: Sin resolver
