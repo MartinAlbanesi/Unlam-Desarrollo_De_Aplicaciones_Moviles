@@ -1,0 +1,55 @@
+<svg width="160" height="160" viewBox="0 0 160 160" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_554_473)">
+<mask id="mask0_554_473" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="-2" width="139" height="70">
+<rect x="1.55107" y="25.1373" width="130.304" height="43.0971" transform="rotate(-11.4633 1.55107 25.1373)" fill="#D9D9D9" stroke="black"/>
+</mask>
+<g mask="url(#mask0_554_473)">
+<circle cx="80.0481" cy="81.199" r="69.7153" fill="#1DAEEF" stroke="#1D1D1D"/>
+</g>
+<mask id="mask1_554_473" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="1" y="40" width="175" height="110">
+<rect x="13.0399" y="70.3847" width="54.11" height="71.25" transform="rotate(8.79862 13.0399 70.3847)" fill="#D9D9D9" stroke="black"/>
+<rect x="91.9043" y="73.223" width="50.6104" height="68.3429" transform="rotate(-39.3396 91.9043 73.223)" fill="#D9D9D9" stroke="black"/>
+</mask>
+<g mask="url(#mask1_554_473)">
+<mask id="mask2_554_473" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="90" y="63" width="73" height="71">
+<rect x="91.5306" y="76.2775" width="60.4234" height="57.5622" transform="rotate(-11.4633 91.5306 76.2775)" fill="#D9D9D9" stroke="black"/>
+</mask>
+<g mask="url(#mask2_554_473)">
+<circle cx="80.0453" cy="81.1975" r="69.7153" fill="#F7BD1D" stroke="#1D1D1D"/>
+</g>
+<mask id="mask3_554_473" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="8" y="80" width="73" height="76">
+<rect x="9.13285" y="92.9865" width="59.8136" height="62.8122" transform="rotate(-11.4633 9.13285 92.9865)" fill="#D9D9D9" stroke="black"/>
+</mask>
+<g mask="url(#mask3_554_473)">
+<circle cx="80.0454" cy="81.1975" r="69.7153" fill="#EF1D1D" stroke="#1D1D1D"/>
+</g>
+</g>
+<line x1="11.6166" y1="67.9201" x2="137.811" y2="42.186" stroke="#1D1D1D" stroke-linecap="round"/>
+<line x1="56.5773" y1="146.852" x2="66.2021" y2="80.7936" stroke="#1D1D1D" stroke-linecap="round"/>
+<line x1="133.939" y1="125.434" x2="92.8251" y2="75.4667" stroke="#1D1D1D" stroke-linecap="round"/>
+<line x1="147.709" y1="64.3273" x2="92.8221" y2="75.4769" stroke="#1D1D1D" stroke-linecap="round"/>
+<line x1="11.1886" y1="92.1514" x2="66.1753" y2="80.8693" stroke="#1D1D1D" stroke-linecap="round"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M81.5895 80.5724L82.6295 87.705L84.1791 87.3411L81.9805 80.4972L81.5895 80.5724ZM84.3667 99.6187L82.9192 89.6914L84.7928 89.2513L87.8352 98.7217L84.3667 99.6187ZM84.8021 102.605L87.1435 118.662L93.6968 116.967L88.7543 101.583L84.8021 102.605ZM91.7703 150.393L87.8692 123.639L95.2287 121.736L103.502 147.49L91.7703 150.393Z" fill="#5B5B5B"/>
+<line x1="103.434" y1="147.329" x2="95.2045" y2="121.803" stroke="#1D1D1D" stroke-linecap="round"/>
+<line x1="103.411" y1="147.328" x2="91.8822" y2="150.326" stroke="#1D1D1D" stroke-linecap="round"/>
+<line x1="87.9303" y1="123.633" x2="91.8752" y2="150.286" stroke="#1D1D1D" stroke-linecap="round"/>
+<line x1="87.9511" y1="123.627" x2="95.1939" y2="121.797" stroke="#1D1D1D" stroke-linecap="round"/>
+<line x1="87.138" y1="118.644" x2="93.6947" y2="117.001" stroke="#1D1D1D" stroke-linecap="round"/>
+<line x1="88.7646" y1="101.702" x2="93.6962" y2="116.98" stroke="#1D1D1D" stroke-linecap="round"/>
+<line x1="88.7335" y1="101.707" x2="84.8293" y2="102.596" stroke="#1D1D1D" stroke-linecap="round"/>
+<line x1="87.7333" y1="98.5384" x2="84.8121" y2="89.3058" stroke="#1D1D1D" stroke-linecap="round"/>
+<line x1="82.9372" y1="89.6927" x2="84.7889" y2="89.3014" stroke="#1D1D1D" stroke-linecap="round"/>
+<line x1="82.9413" y1="89.7543" x2="84.2711" y2="99.5407" stroke="#1D1D1D" stroke-linecap="round"/>
+<line x1="87.7571" y1="98.6381" x2="84.2886" y2="99.5339" stroke="#1D1D1D" stroke-linecap="round"/>
+<line x1="84.1741" y1="87.3312" x2="82.6392" y2="87.6845" stroke="#1D1D1D" stroke-linecap="round"/>
+<line x1="84.1461" y1="87.2478" x2="81.9758" y2="80.5247" stroke="#1D1D1D" stroke-linecap="round"/>
+<line x1="82.6225" y1="87.6724" x2="81.6247" y2="80.6005" stroke="#1D1D1D" stroke-linecap="round"/>
+<line x1="81.951" y1="80.5214" x2="81.6643" y2="80.5747" stroke="#1D1D1D" stroke-linecap="round"/>
+<line x1="87.1284" y1="118.585" x2="84.8474" y2="102.609" stroke="#1D1D1D" stroke-linecap="round"/>
+</g>
+<defs>
+<clipPath id="clip0_554_473">
+<rect width="160" height="160" rx="50" fill="white"/>
+</clipPath>
+</defs>
+</svg>
